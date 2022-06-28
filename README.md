@@ -12,3 +12,6 @@
 
 
 ---
+<h1 align="center">
+   <img alt="Readme" title="Readme" src="./assets/img/README-CONTADOR.gif">
+</h1>
